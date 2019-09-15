@@ -3,8 +3,6 @@
 ## ASSIGNMENT 1 Politics
 
 ### In the folder assignment one are notebooks and data related to the politics assignment 
-
-
 Large data files have been uploaded to one-drive see the links below
 
 ### I've also created a overleaf project with template that needs to be used for report
@@ -12,5 +10,5 @@ Large data files have been uploaded to one-drive see the links below
 I still have to add everyone as an editor so send me your email via whats-app
 
 ### Some useful links
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Mapping with geopandas](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d)
+1. [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [Mapping with geopandas](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d)
