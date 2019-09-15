@@ -4,6 +4,9 @@
 
 ### In the folder assignment one are notebooks and data related to the politics assignment 
 Large data files have been uploaded to one-drive see the links below
+1. [tweets.pickle](https://1drv.ms/u/s!ApwrFaUeurAag6szQ5OPJQopVOdAkw?e=PJbnq4)
+2. [tweets_onlymentions.pickle](https://1drv.ms/u/s!ApwrFaUeurAag6sx7oI5qfbiY6oohw?e=3nagTK)
+3. [tweets_onlymentions.pickle](https://1drv.ms/u/s!ApwrFaUeurAag6syRybZj1O_1uYwUg?e=iVF6Ue)
 
 ### I've also created a overleaf project with template that needs to be used for report
 [Overleaf project](https://www.overleaf.com/project/5d721d0aa6698b0001c5d9cf)
