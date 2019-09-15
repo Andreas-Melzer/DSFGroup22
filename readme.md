@@ -7,7 +7,7 @@ Large data files have been uploaded to one-drive see the links below
 
 ### I've also created a overleaf project with template that needs to be used for report
 [Overleaf project](https://www.overleaf.com/project/5d721d0aa6698b0001c5d9cf)
-I still have to add everyone as an editor so send me your email via whats-app
+I still have to add everyone as an editor so send me your email adress via whats-app
 
 ### Some useful links
 1. [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
