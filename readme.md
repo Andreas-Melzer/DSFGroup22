@@ -2,7 +2,7 @@
 
 ## ASSIGNMENT 1 Politics
 
-### In the folder assignment one are notebooks and data related to the politics assignment 
+### In the folder assignment 1 are notebooks and data related to the politics assignment 
 Large data files have been uploaded to one-drive see the links below
 1. [tweets.pickle](https://1drv.ms/u/s!ApwrFaUeurAag6szQ5OPJQopVOdAkw?e=PJbnq4)
 2. [tweets_onlymentions.pickle](https://1drv.ms/u/s!ApwrFaUeurAag6sx7oI5qfbiY6oohw?e=3nagTK)
